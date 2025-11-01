@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Datos del popup para cada skill
     const skillTexts = {
         "Ciberseguridad / Hacking Ético": "- Auditorías de ciberseguridad. \n- Securización de sistemas linux, windows y servidores web.\n - Resoluciones de diversos CTF's.",
-        "Análisis de datos": " - Análisis de datos.\n - Dominio de SQL y NoSQL. \n - Otras áreas de la informática (Bases de datos, redes, etc.).",
+        "Administración de Sistemas": " - Análisis de procesos.\n - Dominio de Sistemas Linux y Windows. \n - Otras áreas de la informática (Bases de datos, redes, etc.).",
         "Programación": " - Desarrollo de aplicaciones web o en plataforma.\n - Automatización de tareas mediante scripting.\n - Conocimiento en lenguajes como Python, C#,  JavaScript, y más."
     };
     
